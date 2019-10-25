@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "Beauty"
+    },
+    {
+        "name" : "Fashion"
+    },
+    {
+        "name" : "Fitness"
+    },
+    {
+        "name" : "Food"
+    },
+    {
+        "name" : "Home/Family"
+    },
+    {
+        "name" : "Health/Wellness"
+    },
+    {
+        "name" : "Pets"
+    },
+    {
+        "name" : "Tech"
+    },
+    {
+        "name" : "Others"
+    }
+]
